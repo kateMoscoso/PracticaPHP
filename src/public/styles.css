@@ -1,0 +1,28 @@
+h2 {
+    color: #9999ff;
+}
+
+.naranja {
+    color: #ff6600;
+}
+
+.rojo {
+    color: #ff0000;
+}
+
+.verde {
+    color: #00ff00;
+}
+
+/**
+ * Extra large button extensions. Extends `.btn`.
+ */
+.btn-xlarge {
+    padding: 1px 1px;
+    font-size: 18px;
+    line-height: normal;
+    -webkit-border-radius: 4px;
+       -moz-border-radius: 4px;
+            border-radius: 4px;
+    }
+    
